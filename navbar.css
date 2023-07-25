@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+/* font-family: 'Caveat', cursive; */
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Inter:wght@200&display=swap");
+/* font-family: 'Inter', sans-serif; */
+/* 
+  font-family: 'Playfair Display', serif */
+
+nav.navbar {
+  background-color: rgb(72, 122, 80);
+}
+
+.navbar-collapse li {
+  font-family: 'Playfair Display', serif;
+  font-Style:italic;
+  /* font-Weight:bold; */
+  font-Size:20px;
+  letter-Spacing:2px
+} 
+
+.d-grid button {
+  font-family: 'Playfair Display', serif;
+  font-Style:italic;
+  /* font-Weight:bold; */
+  width: 100%;
+  font-Size:20px;
+}
+
+
+.navbar-toggler {
+  color: black;
+}
+
+.navbar-toggler:focus {
+  color: black;
+}
+
+.navbar-toggler:hover {
+  color: white;
+}
+
+#logout_btn {
+  background-color: white;
+  color: rgb(72, 122, 80);
+}
+
+#profile_btn {
+  background-color: white;
+  color: rgb(72, 122, 80);
+}
+
+
+#logout_btn:hover {
+  background-color: rgb(72, 122, 80);
+  color: white;
+}
+
+#profile_btn:hover {
+  background-color: rgb(72, 122, 80);
+  color: white;
+}

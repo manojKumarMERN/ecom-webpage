@@ -1,0 +1,192 @@
+{
+   " House_Plants_Flowers":[
+        {
+            "id":1,
+            "image":"/mother-in-law tongue plant .jpg",
+            "name":"Mother In Law Tongue Plant",
+            "discription":"This is a picture of a Mother In Law Tongue plant and it does not require much care. Will do best in very bright light, even some morning sun. Mother-In-Law house plant care",
+            "price":250,
+            "wished":false,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"H O U S E - P L A N T S - F L O W E R S"
+             
+        },
+        {
+            "id":2,
+            "image":"/pothos-houseplant.jpg",
+            "name":"Pothos Marble Queen Plant",
+            "discription":"One of my favorite types of Pothos the plant pictured here is the Pothos Marble Queen. The leaves are colored a mix of white and green. Pothos are easy care house plants",
+            "price":1100,
+            "wished":false,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"H O U S E - P L A N T S - F L O W E R S"
+            
+        },
+        {
+            "id":3,
+            "image":"/Dracaena Marginata.jpg ",
+            "name":"Dracaena Marginata Plant",
+            "discription":"Picture of Dracaena Marginata plant, a graceful house plant that will do well in medium to bright indirect light. A nice plant once established and free of any problems",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"H O U S E - P L A N T S - F L O W E R S"
+        },
+        {
+            "id":4,
+            "image":"/aglaonema-houseplant-red.jpg ",
+            "name":"Aglaonema Plant",
+            "discription":"Picture of an Aglaonema house plant. There are many varieties and Aglaonema house plant will grow in medium to bright indirect light. Bright, indirect light for best growth.",
+            "wished":false,
+            "price":320,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"H O U S E - P L A N T S - F L O W E R S"
+        },
+        {
+            "id":5,
+            "name":"Peace Lily Plant",
+            "image":"/peace-lily-houseplant.jpg ",
+            "discription":"Picture of a Peace Lily plant. Peace Lily is an easy house plant to grow but will wilt quickly if let to dry too much. Will produce white spathes if light is adequate.",
+            "wished":false,
+            "price":300,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"H O U S E - P L A N T S - F L O W E R S"
+        },
+        {
+            "id":6,
+            "name":"Golden Pothos Plant",
+            "image":"/goldenn-pothos.jpg ",
+            "discription":"Picture of a Golden Pothos plant. A popular house plant, it will trail over the edge of the pot or climb a trellis or pole. Medium to bright light is best. Easy care house plant.",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"H O U S E - P L A N T S - F L O W E R S"
+        }
+      
+    ],
+    " Care_House_Plants":[
+        {
+            "id":7,
+            "name":"English Ivy Plant",
+            "image":"/english-ivy-houseplant-potted.jpg ",
+            "discription":"Picture of an English Ivy plant. I find it is much easier to grow outdoors but, with good light, you can successfully grow English Ivy indoors. English Ivy plant care",
+            "wished":false,
+            "price":150,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+             
+        },
+        {
+            "id":8,
+            "name":"Cast Iron Plant",
+            "image":"/cast-iron-house-plant.jpg ",
+            "discription":"Cast Iron plant can be grown indoors or outdoors. It will thin in indoor light but they are pretty hardy plants. I grow them on my porch and patio. They can be left out in the cold.",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":9,
+            "name":"Fittonia Plant",
+            "image":"/fittonia-house-plants.jpg ",
+            "discription":"Fittonia houseplant is a creeping plant with leaves of white, red or pink veins and small white flowers. A pretty little houseplant.this plants makes good vibes.",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":10,
+            "name":"Planter Pots",
+            "image":"/planter-pots.jpg ",
+            "discription":"See something you like? Ads are the only way that I can keep my houseplant care website up and running. Commission earned on sales.",
+            "wished":false,
+            "price":800,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":11,
+            "name":"Nephthytis Plant",
+            "image":"/nephthytis-houseplant.jpg ",
+            "discription":"Nephthytis is an easy houseplant to care for and grow. Will do best with bright, indirect light. Will tolerate lower light levels.",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":12,
+            "name":"Birds Nest Fern Plant",
+            "image":"/birds-nest-fern-plant.jpg ",
+            "discription":"This is a Birds Nest Fern. The leaflets that fall from many other ferns, creating quite a mess, are not present on Birds Nest Fern.",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":13,
+            "name":"Dracaena Janet Craig Compacta",
+            "image":"/dracaena-janet-craig-compacta300x250.jpg ",
+            "discription":"This is a Birds Nest Fern. The leaflets that fall from many other ferns, creating quite a mess, are not present on Birds Nest Fern.",
+            "wished":false,
+            "price":230,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":14,
+            "name":"Aechmea Fasciata Bromeliad",
+            "image":"/bromeliad-aechmea-fasciata300x250.jpg ",
+            "discription":"This is a Birds Nest Fern. The leaflets that fall from many other ferns, creating quite a mess, are not present on Birds Nest Fern.",
+            "wished":false,
+            "price":1100,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        },
+        {
+            "id":15,
+            "name":"Picture of ZZ House Plant",
+            "image":"/zz-plant-indoor-house-plant300250.jpg",
+            "discription":"This is a Birds Nest Fern. The leaflets that fall from many other ferns, creating quite a mess, are not present on Birds Nest Fern.",
+            "wished":false,
+            "price":900,
+            "buy":false,
+            "quantity":1,
+            "delete":false,
+            "div":"C A R E - H O U S E  - P L A N T S"
+        }
+    ]
+
+
+}

@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+/* font-family: 'Caveat', cursive; */
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Inter:wght@200&display=swap');
+  /* font-family: 'Inter', sans-serif; */
+
+*{
+    box-sizing: border-box;
+   
+}
+
+body {
+    background-color: #3CA55C;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100vw ;
+    /* height: 100vh; */
+}
+
+.loginWrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.h1_tagCon{
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+    z-index: 1;
+    font-weight:lighter;
+    font-style: italic;
+}
+
+.conatiner{
+    width: 500px;
+    border-radius :  50px 0 0 0;
+    border: 1px 1px ;
+    z-index:0;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 3px 70px 10px black;
+    border-top: 30px;
+    border-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-Side {
+    padding: 40px;
+}
+
+.left-Side ::placeholder{
+    font-family: 'Inter', sans-serif; 
+    font-weight: lighter;
+    color: #3CA55C;
+
+}
+
+.para_con{
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 7px;
+    text-align: center;
+    z-index: 2;
+    color: wheat;
+   text-indent: 10; 
+}
+
+.right-side{
+    width: 500px;
+    background-color: #3CA55C;
+}
+
+form label{
+    color: #3CA55C;
+    font-family: 'Inter', sans-serif; 
+    font-size: 18px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+form input{
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid #3CA55C;
+    margin-top: 5px;
+}
+
+.left-Side  button {
+    width: 100%;
+    margin-top: 10px;
+    background-color:#3CA55C ;
+    font-family: 'Playfair Display', serif;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+
+.left-Side  button:hover{
+    letter-spacing: 0;
+    transition-duration: 1s;
+}
+
+.left-Side  button:focus{
+    background-color: #B5AC49;
+}
+
+ form .link_button {
+    white-space: nowrap;
+    width: 100%;
+    letter-spacing: 0;
+    background-color: #3CA55C   ;
+}
+
+form .link_button:focus{
+    background-color: #3CA55C;
+}
+
+.words::before{
+    content: "__________________________";
+    height: 5px;
+    font-weight: bold;
+    color:#3CA55C;
+}
+
+.words{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    
+}
+
+.con_para{
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    font-size: 20px;
+}
+

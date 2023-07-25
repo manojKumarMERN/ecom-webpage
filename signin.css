@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+/* font-family: 'Caveat', cursive; */
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Inter:wght@200&display=swap");
+/* font-family: 'Inter', sans-serif; */
+
+* {
+  box-sizing: border-box;
+}
+
+.conatiner_sign {
+  background-color: white;
+  display: flex;
+  width: 600px;
+  box-shadow: 1px 3px 70px 10px black;
+  border-radius: 50px 0 0 0;
+}
+
+.form_sign {
+  margin: auto;
+}
+.signinWrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.h1_signCon {
+  font-family: "Playfair Display", serif;
+  font-size: 80px;
+  z-index: 1;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.parasign_con {
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: "Playfair Display", serif;
+  letter-spacing: 7px;
+  text-align: center;
+  z-index: 2;
+  color: wheat;
+  text-indent: 10;
+}
+
+form {
+  padding: 30px;
+  align-items: center;
+}
+
+form label {
+  margin-top: 5px;
+}
+
+.formInputs input {
+  background: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 3px solid #3ca55c;
+  margin-top: 3px;
+}
+
+.formInputs button {
+  width: 100%;
+  margin-top: 10px;
+  background-color: #3ca55c;
+  font-family: "Playfair Display", serif;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  font-size: 18px;
+  letter-spacing: 5px;
+}
+
+.formInputs button:hover {
+  letter-spacing: 0;
+  transition-duration: 1s;
+}
+
+.formInputs ::placeholder{
+  font-family: 'Inter', sans-serif; 
+  font-weight: lighter;
+  color: #3CA55C;
+}
+
+svg{
+  margin-right: 5px;
+}
+
+.formInputs button:focus {
+  background-color: #b5ac49;
+}
+
+.pic_con {
+  font-family: "Caveat", cursive;
+  font-size: 20px;
+  background-color: #3ca55c;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  padding: 10px;
+}
+
+.authour {
+  text-align: right;
+}
